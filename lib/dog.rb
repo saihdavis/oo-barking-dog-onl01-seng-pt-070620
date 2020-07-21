@@ -8,7 +8,7 @@ class Dog
   end 
   
   def bark
-    puts Bark!
+    Bark!
   
 end
 end
