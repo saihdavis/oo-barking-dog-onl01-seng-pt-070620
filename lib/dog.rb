@@ -8,8 +8,7 @@ class Dog
   end 
   
   def bark
-    @bark = Bark!
-    puts Bark! 
+   puts "Bark!"
   
 end
 end
